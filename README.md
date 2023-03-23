@@ -9,7 +9,7 @@ davinci pro 1.0<br>
 PLA filament from another manufacturer<br>
 (www.amazon.co.jp/dp/B01MZBDKIZ)
 ## DISCLAIMER
-The author assumes no responsibility for the content of this repository.
+I assume no responsibility for the content of this repository.
 
 ## Contact
 https://moburo.net/<br>
